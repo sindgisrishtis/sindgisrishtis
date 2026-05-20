@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm a 2nd-year **B.E. AIML student at BMS Institute of Technology** (CGPA: 9.16) in Bengaluru, working at the boundary of deep learning research and software engineering.
+I'm a 3rd-year **B.E. AIML student at BMS Institute of Technology** (CGPA: 9.16) in Bengaluru, working at the boundary of deep learning research and software engineering.
 
 My work spans **federated learning for medical imaging**, **parameter-efficient LLM fine-tuning**, **computer vision pipelines**, and **backend system design**. I care about building things that are both technically rigorous and practically useful.
 
