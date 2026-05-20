@@ -9,10 +9,9 @@
 
 # Hi, I'm Srishti Sindgi 👋
 
-**AI/ML student @ BMSIT Bengaluru · Building real systems at the intersection of deep learning and backend engineering**
+**AIML @ BMSIT · Federated learning, LLMs, CV · Building systems that actually run in production**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-s-sindgi-a1644a28b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sindgisrishtis)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sindgisrishtis@gmail.com)
 [![SnowPro](https://img.shields.io/badge/SnowPro_Associate-29B5E8?style=flat&logo=snowflake&logoColor=white)](https://achieve.snowflake.com/f072604d-7a46-4685-a879-d3483cc1983c)
 
@@ -156,14 +155,6 @@ End-to-end fleet telemetry pipeline for KPI monitoring, predictive maintenance, 
 | Generative AI | Oracle | 2025 |
 | Introduction to Generative AI | IBM SkillsBuild | 2025 |
 | Networking Basics | Cisco | 2025 |
-
----
-
-## Achievements
-
-- 🥇 **12th Rank** — Karnataka Pre-University Examination (PUC)
-- 🚀 **Selected** — Smart India Hackathon 2025, Code Red, Anveshana (national-level)
-- 🌐 **Volunteer** — Google Cloud AI Labs 2025 (Hack2Skill)
 
 ---
 
