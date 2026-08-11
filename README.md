@@ -1,72 +1,117 @@
-<table width="100%">
+<div align="center">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="42%" valign="top">
-
-## About
-
-Models are only one part of the system — I care just as much about what happens around them: the APIs that expose them, the services that orchestrate them, and the infrastructure that keeps them running.
-
-I'm currently finishing my **B.E. in Artificial Intelligence and Machine Learning** at **BMS Institute of Technology and Management, Bengaluru**, working at the intersection of ML research and backend systems.
-
+<td width="45%" valign="middle">
+<img src="./assets/hero.png" alt="Srishti S Sindgi — coding at a dark futuristic workstation" width="100%"/>
 </td>
+<td width="55%" valign="middle" align="center">
 
-<td width="58%" valign="top">
+<br/>
 
-## How I Build
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Building+intelligent+systems+from+model+to+deployment;Federated+Learning+%C2%B7+Computer+Vision+%C2%B7+Backend;AI%2FML+%C2%B7+Distributed+Systems+%C2%B7+Generative+AI;From+model+%E2%86%92+API+%E2%86%92+system" alt="Typing SVG" />
 
-<table width="100%">
-<tr>
-<td align="center">
+<br/>
 
-**💡 idea**
+# Srishti S Sindgi
 
-<sub>Understand the problem</sub>
+**AI/ML · Backend Engineering · Distributed Systems**
 
-</td>
+<sub>Federated Learning · Computer Vision · Generative AI · ML Engineering · System Design</sub>
 
-<td align="center">→</td>
+<br/><br/>
 
-<td align="center">
-
-**🧠 model**
-
-<sub>Research & train</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-**🌐 API**
-
-<sub>Expose capabilities</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-**⚙️ system**
-
-<sub>Connect & orchestrate</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-**🚀 shipped**
-
-<sub>Deploy & improve</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-sindgisrishtis-07111A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=07111A)](https://github.com/sindgisrishtis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srishti--s--sindgi-07111A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=07111A)](https://www.linkedin.com/in/srishti-s-sindgi-a1644a28b)
+[![Email](https://img.shields.io/badge/Email-sindgisrishtis%40gmail.com-07111A?style=for-the-badge&logo=gmail&logoColor=34D399&labelColor=07111A)](mailto:sindgisrishtis@gmail.com)
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:38BDF8,100:34D399&height=3&section=header" width="100%"/>
+
+</div>
+
+<br/>
+
+## `01` ABOUT
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+Models are only one part of the system — I care just as much about what happens around them: the APIs that expose them, the services that orchestrate them, and the infrastructure that keeps them running.
+
+I'm currently finishing my B.E. in **Artificial Intelligence and Machine Learning** at **BMS Institute of Technology and Management, Bengaluru**, working at the intersection of ML research and backend systems.
+
+> I don't only build models. I care about the systems surrounding them.
+
+</td>
+<td width="45%" valign="top">
+
+<table width="100%">
+<tr><td align="center">🧬&nbsp;&nbsp;<b>Federated Learning</b></td></tr>
+<tr><td align="center">│</td></tr>
+<tr><td align="center">▼</td></tr>
+<tr><td align="center">🧠&nbsp;&nbsp;<b>AI / ML</b></td></tr>
+<tr><td align="center">│</td></tr>
+<tr><td align="center">▼</td></tr>
+<tr><td align="center">⚡&nbsp;&nbsp;<b>Backend Systems</b></td></tr>
+<tr><td align="center">│</td></tr>
+<tr><td align="center">▼</td></tr>
+<tr><td align="center">🔗&nbsp;&nbsp;<b>Distributed Systems</b></td></tr>
+<tr><td align="center">│</td></tr>
+<tr><td align="center">▼</td></tr>
+<tr><td align="center">🚀&nbsp;&nbsp;<b>Deployment</b></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` HOW I BUILD
+
+<table width="100%">
+<tr>
+<td align="center" width="18%">
+
+**💡 idea**
+<sub>Understand the problem space</sub>
+
+</td>
+<td align="center" width="2%">→</td>
+<td align="center" width="18%">
+
+**🧠 model**
+<sub>Research, design, train</sub>
+
+</td>
+<td align="center" width="2%">→</td>
+<td align="center" width="18%">
+
+**🌐 API**
+<sub>Expose capabilities</sub>
+
+</td>
+<td align="center" width="2%">→</td>
+<td align="center" width="18%">
+
+**⚙️ system**
+<sub>Connect & orchestrate</sub>
+
+</td>
+<td align="center" width="2%">→</td>
+<td align="center" width="18%">
+
+**🚀 shipped**
+<sub>Deploy & improve</sub>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -74,402 +119,239 @@ I'm currently finishing my **B.E. in Artificial Intelligence and Machine Learnin
 
 </div>
 
-</td>
-</tr>
-</table>
+<br/>
 
-<br>
-
-<div align="center">
-
-🧬 **Federated Learning** &nbsp;→&nbsp;
-🧠 **AI / ML** &nbsp;→&nbsp;
-⚡ **Backend** &nbsp;→&nbsp;
-🔗 **Distributed Systems** &nbsp;→&nbsp;
-🚀 **Deployment**
-
-</div>
-
-<br>
-
----
-
-## Currently Building
+## `03` CURRENTLY BUILDING
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🔬 FedGIN
+### 🔬 FEDGIN
+`Federated Learning` · `Medical Imaging`
 
-**Federated Learning · Medical Imaging**
-
-Federated learning framework for multimodal organ segmentation across distributed hospital datasets, exploring **Dynamic Global Non-linear Augmentation** to address data heterogeneity and scanner variability.
+Federated learning framework for multimodal organ segmentation across distributed hospital datasets, exploring Dynamic Global Non-linear Augmentation to address data heterogeneity and scanner variability.
 
 `PyTorch` `Federated Learning` `Medical Imaging`
 
-<br>
-
-<sub>Research Project · Ongoing</sub>
+**Status:** `RESEARCH / ONGOING`
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⚡ Orchestrix
+### ⚡ ORCHESTRIX
+`Distributed Systems` · `Backend`
 
-**Distributed Systems · Backend**
-
-Event-driven workflow orchestration platform exploring ideas from systems such as Temporal and n8n — workflow execution, background workers, message queues and distributed backend services.
+Event-driven workflow orchestration platform exploring ideas from Temporal, n8n, Zapier and Trigger.dev — workflow execution, background workers, message queues, Redis, and distributed backend services.
 
 `FastAPI` `PostgreSQL` `RabbitMQ` `Redis` `Docker`
 
-<br>
-
-<sub>Systems Project · Ongoing</sub>
+**Status:** `ONGOING`
 
 </td>
-
 </tr>
 </table>
 
-<br>
+<br/>
 
----
-
-## Featured Projects
+## `04` FEATURED PROJECTS
 
 <table width="100%">
 <tr>
-
 <td width="33%" valign="top">
 
-### 🔬 FedGIN
+**🔬 FEDGIN**
+`Federated Learning · Medical Imaging`
 
-**Federated Learning for Multimodal Medical Image Segmentation**
+Multimodal organ segmentation across distributed hospital datasets with Dynamic Global Non-linear Augmentation for cross-client heterogeneity.
 
-Federated framework for multimodal organ segmentation across distributed hospital datasets, exploring dynamic global non-linear augmentation for heterogeneous clients.
+`PyTorch` `FL` `Deep Learning`
 
-`PyTorch`  
-`Federated Learning`  
-`Medical Imaging`
+*Research Project / Ongoing*
 
-<br>
-
-<a href="https://github.com/sindgisrishtis/FedGIN-Multimodal-Segmentation">
-→ View Repository
-</a>
+**[→ View Repository](https://github.com/sindgisrishtis/FedGIN-Multimodal-Segmentation)**
 
 </td>
-
 <td width="33%" valign="top">
 
-### ⚡ Orchestrix
+**⚡ ORCHESTRIX**
+`Event-Driven Systems · Backend`
 
-**Event-Driven Workflow Orchestration Platform**
+Workflow orchestration platform inspired by Temporal / n8n — event-driven execution, background workers, queues, distributed backend.
 
-Backend platform exploring event-driven architecture, workflow execution, background workers, message queues and distributed service design.
+`FastAPI` `RabbitMQ` `Redis` `Docker`
 
-`FastAPI`  
-`PostgreSQL`  
-`RabbitMQ`  
-`Redis`  
-`Docker`
-
-<br>
-
-<sub>Ongoing Project</sub>
+`Ongoing Project`
 
 </td>
-
 <td width="33%" valign="top">
 
-### 👁️ Samvaad
+**👁️ SAMVAAD**
+`Multimodal ISL Translator`
 
-**Multimodal Indian Sign Language Translator**
+Sign↔Text↔Speech translation using MediaPipe hand-landmark extraction and a TensorFlow classifier over 36 sign classes, with practice mode and analytics.
 
-Computer vision + deep learning system supporting **Sign → Text, Sign → Speech, Text → Sign and Speech → Sign**.
+`TensorFlow` `MediaPipe` `OpenCV` `Streamlit`
 
-MediaPipe hand landmarks feed a TensorFlow/Keras classifier covering **36 sign classes**, with Practice Mode and Analytics Dashboard.
-
-`TensorFlow` `MediaPipe`  
-`OpenCV` `Streamlit`
-
-<br>
-
-<a href="https://github.com/sindgisrishtis/samvaad-multimodal-isl-translator">
-→ View Repository
-</a>
+**[→ View Repository](https://github.com/sindgisrishtis/samvaad-multimodal-isl-translator)**
 
 </td>
-
 </tr>
 </table>
 
-<br>
+<br/>
+
+## `05` MORE PROJECTS
 
 <details>
-<summary><b>▸ More Projects</b></summary>
-
-<br>
+<summary><b>Expand dashboard →</b></summary>
+<br/>
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🏢 AI-Powered ERP Workflow Automation
-
-Enterprise-style ERP platform focused on workflow automation, role-based operations, inventory management and purchase approval workflows.
-
+**AI-Powered ERP Workflow Automation**
+Enterprise ERP focused on workflow automation, role-based ops, inventory and purchase approvals.
 `FastAPI` `React` `PostgreSQL`
-
-<br>
-
-<a href="https://github.com/sindgisrishtis/ai-erp-workflow-automation">
-→ View Repository
-</a>
+**[→ Repo](https://github.com/sindgisrishtis/ai-erp-workflow-automation)**
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧩 Application Blueprint Generator
-
-Converts natural-language application ideas into structured blueprints covering UI screens, backend APIs, database entities and technology recommendations.
-
+**Application Blueprint Generator**
+Converts natural-language app ideas into structured blueprints — UI, APIs, entities, tech stack.
 `Python` `FastAPI` `NLP`
-
-<br>
-
-<a href="https://github.com/sindgisrishtis/app-blueprint-generator">
-→ View Repository
-</a>
+**[→ Repo](https://github.com/sindgisrishtis/app-blueprint-generator)**
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🏭 Industrial Surface Defect Detection
-
-Computer vision system for detecting surface defects in industrial materials, with a focus on real-time inference and deployment.
-
-`PyTorch` `OpenCV` `Docker` `TorchScript`
-
-<br>
-
-<a href="https://github.com/sindgisrishtis/Industrial-Defect-Detection">
-→ View Repository
-</a>
+**Industrial Surface Defect Detection**
+CV system for detecting surface defects, tuned for real-time inference and deployment.
+`PyTorch` `OpenCV` `TorchScript`
+**[→ Repo](https://github.com/sindgisrishtis/Industrial-Defect-Detection)**
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔤 Smart Compiler Front-End Automata Simulator
-
-Interactive simulator demonstrating lexical analysis, parsing and automata concepts through Streamlit.
-
-`Python` `Streamlit` `Automata` `Compiler Design`
-
-<br>
-
-<a href="https://github.com/sindgisrishtis/compiler-front-end-automata-simulator">
-→ View Repository
-</a>
+**Compiler Front-End Automata Simulator**
+Interactive simulator for lexical analysis, parsing and automata concepts.
+`Python` `Streamlit` `Automata`
+**[→ Repo](https://github.com/sindgisrishtis/compiler-front-end-automata-simulator)**
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🌧️ Rainfall Prediction
-
-Supervised machine learning project predicting rainfall from historical weather observations.
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
-
-<br>
-
-<a href="https://github.com/sindgisrishtis/rainfall-prediction">
-→ View Repository
-</a>
+**Rainfall Prediction**
+Supervised ML predicting rainfall from historical weather observations.
+`Pandas` `NumPy` `Scikit-learn`
+**[→ Repo](https://github.com/sindgisrishtis/rainfall-prediction)**
 
 </td>
-
-<td width="50%" valign="top">
-
-</td>
-
+<td width="50%"></td>
 </tr>
 </table>
 
 </details>
 
-<br>
+<br/>
 
----
-
-## Tech Stack
-
-### 🧠 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hugging%20Face-07111A?style=flat-square&logo=huggingface&logoColor=FBBF24" />
-<img src="https://img.shields.io/badge/OpenCV-07111A?style=flat-square&logo=opencv&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/MediaPipe-07111A?style=flat-square&logo=google&logoColor=34D399" />
-</p>
-
-### ⚡ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,react,ts" />
-</p>
-
-### 🔗 Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,redis,git,linux" />
-&nbsp;
-<img src="https://img.shields.io/badge/RabbitMQ-07111A?style=flat-square&logo=rabbitmq&logoColor=38BDF8" />
-</p>
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-07111A?style=flat-square&logo=postgresql&logoColor=34D399" />
-</p>
-
-<br>
-
----
-
-## Engineering Interests
+## `06` TECH STACK
 
 <table width="100%">
 <tr>
+<td width="34%" valign="top">
 
-<td align="center" width="16.6%">
-🧠
-<br>
-<b>AI / ML</b>
+**🧠 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" /><br/>
+![HuggingFace](https://img.shields.io/badge/HuggingFace-07111A?style=flat-square&logo=huggingface&logoColor=FBBF24)
+![OpenCV](https://img.shields.io/badge/OpenCV-07111A?style=flat-square&logo=opencv&logoColor=22D3EE)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-07111A?style=flat-square&logo=google&logoColor=34D399)
+
 </td>
+<td width="33%" valign="top">
 
-<td align="center" width="16.6%">
-🧬
-<br>
-<b>Federated Learning</b>
+**⚡ BACKEND**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,react,ts" />
+
 </td>
+<td width="33%" valign="top">
 
-<td align="center" width="16.6%">
-👁️
-<br>
-<b>Computer Vision</b>
+**🔗 INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=docker,redis,git,linux" /><br/>
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-07111A?style=flat-square&logo=rabbitmq&logoColor=38BDF8)
+
 </td>
-
-<td align="center" width="16.6%">
-⚡
-<br>
-<b>Backend Engineering</b>
-</td>
-
-<td align="center" width="16.6%">
-🔗
-<br>
-<b>Distributed Systems</b>
-</td>
-
-<td align="center" width="16.6%">
-🤖
-<br>
-<b>Generative AI</b>
-</td>
-
 </tr>
 </table>
 
-<br>
+**Languages:** <img src="https://skillicons.dev/icons?i=python,java,c" valign="middle"/> ![SQL](https://img.shields.io/badge/SQL-07111A?style=flat-square&logo=postgresql&logoColor=34D399)
 
----
+<br/>
 
-## Highlights
-
-<div align="center">
-
-🏆 **Smart India Hackathon — Selected**  
-🏆 **Code Red — Hackathon**  
-🏆 **Anveshana — Hackathon**  
-❄️ **SnowPro Associate — Snowflake**  
-☁️ **Generative AI Academy 2.0 — Google Cloud**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:38BDF8,100:34D399&height=3&section=header" width="100%"/>
-
-</div>
-
-<br>
-
----
-
-## Let's Connect
+## `07` ENGINEERING INTERESTS
 
 <table width="100%">
 <tr>
+<td align="center" width="16.6%">🧠<br/><sub><b>AI / ML</b></sub></td>
+<td align="center" width="16.6%">🧬<br/><sub><b>Federated Learning</b></sub></td>
+<td align="center" width="16.6%">👁️<br/><sub><b>Computer Vision</b></sub></td>
+<td align="center" width="16.6%">⚡<br/><sub><b>Backend Engineering</b></sub></td>
+<td align="center" width="16.6%">🔗<br/><sub><b>Distributed Systems</b></sub></td>
+<td align="center" width="16.6%">🤖<br/><sub><b>Generative AI</b></sub></td>
+</tr>
+</table>
 
-<td width="60%" valign="middle">
+<br/>
 
-### `> let's build something intelligent.`
+## `08` HIGHLIGHTS
 
-I enjoy working on problems where **AI meets real systems** — whether that's a model, an API, a distributed workflow, or something in between.
+🏆 Smart India Hackathon — Selected&nbsp;&nbsp;·&nbsp;&nbsp;🏆 Code Red — Hackathon&nbsp;&nbsp;·&nbsp;&nbsp;🏆 Anveshana — Hackathon
+❄️ SnowPro Associate — Snowflake&nbsp;&nbsp;·&nbsp;&nbsp;☁️ Generative AI Academy 2.0 — Google Cloud
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:38BDF8,100:34D399&height=3&section=header" width="100%"/>
 
-<a href="https://github.com/sindgisrishtis">
-<img src="https://img.shields.io/badge/Explore%20GitHub-07111A?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/srishti-s-sindgi-a1644a28b">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-07111A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
+## `09` TERMINAL
 
-<a href="mailto:sindgisrishtis@gmail.com">
-<img src="https://img.shields.io/badge/Send%20an%20Email-07111A?style=for-the-badge&logo=gmail&logoColor=34D399"/>
-</a>
+```bash
+● ● ●  terminal
 
-</td>
+$ whoami
+srishti@sindgi
 
-<td width="40%" valign="top">
+$ focus
+AI · systems · backend
 
-```text
-┌─ terminal ───────────────────┐
-│                              │
-│  $ whoami                    │
-│  srishti@sindgi              │
-│                              │
-│  $ focus                     │
-│  AI · systems · backend      │
-│                              │
-│  $ status                    │
-│  building...                 │
-│                              │
-│  $ echo "hello"              │
-│  → let's build.              │
-│                              │
-└──────────────────────────────┘
+$ open github
+→ github.com/sindgisrishtis
+
+$ connect linkedin
+→ linkedin.com/in/srishti-s-sindgi-a1644a28b
+
+$ send mail
+→ sindgisrishtis@gmail.com
+
+$ status
+building...
+
+$ echo "let's build something intelligent."
+→ █
+```
+
+<br/>
+
+<div align="center">
+
+`research` → `build` → `break` → `learn` → `ship`
+
+</div>
